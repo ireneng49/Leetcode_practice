@@ -17,4 +17,3 @@ lass Program {
       return seqIdx == sequence.size();
     }
   }
-  
